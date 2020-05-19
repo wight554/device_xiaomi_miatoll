@@ -20,7 +20,10 @@ TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_miatoll
 TARGET_RECOVERY_DEVICE_MODULES := libinit_miatoll
 
 # HIDL
-DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
+ODM_MANIFEST_SKUS += \
+    joyeuse
+
+ODM_MANIFEST_JOYEUSE_FILES := $(DEVICE_PATH)/manifest_joyeuse.xml
 
 # OTA assert
 TARGET_OTA_ASSERT_DEVICE := curtana,excalibur,gram,joyeuse
