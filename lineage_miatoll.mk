@@ -14,3 +14,6 @@ PRODUCT_MODEL := SM6250
 PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+# Gapps
+$(call inherit-product-if-exists, vendor/gapps/config.mk)
