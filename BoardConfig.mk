@@ -19,5 +19,8 @@ TARGET_BOOTLOADER_BOARD_NAME := miatoll
 TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_miatoll
 TARGET_RECOVERY_DEVICE_MODULES := libinit_miatoll
 
+# HIDL
+DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
+
 # OTA assert
 TARGET_OTA_ASSERT_DEVICE := curtana,excalibur,gram,joyeuse
