@@ -90,9 +90,11 @@ void load_device_properties() {
                 "POCO", "gram", "POCO M2 Pro");
     } else if (hwname == "joyeuse") {
         set_device_props(
-                "Redmi/joyeuse_global/joyeuse:10/QKQ1.191215.002/V11.0.5.0.QJZMIXM:user/release-keys",
-                "joyeuse_global-user 10 QKQ1.191215.002 V11.0.5.0.QJZMIXM release-keys",
+                "Redmi/joyeuse_global/joyeuse:10/QKQ1.191215.002/V11.0.7.0.QJZMIXM:user/release-keys",
+                "joyeuse_global-user 10 QKQ1.191215.002 V11.0.7.0.QJZMIXM release-keys",
                 "Redmi", "joyeuse", "Redmi Note 9 Pro");
+        property_override("ro.build.version.security_patch", "2020-09-01");
+        property_override("ro.vendor.build.security_patch", "2020-09-01");
     }
 }
 
