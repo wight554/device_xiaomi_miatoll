@@ -3,18 +3,18 @@ vendor/lib/camera/com.qti.sensormodule.ofilm_gc02m1_filter.bin|9100355fea9a83176
 vendor/lib/camera/com.qti.sensormodule.ofilm_s5kgm2.bin|f478aaa7dcb48ec04996ef6f64a837c49c4baa7f
 vendor/lib/camera/com.qti.sensormodule.sunny_imx582.bin|175e004dcc5851cf9804878ab7d70c31467e4585
 vendor/lib/camera/com.qti.sensormodule.sunny_s5kgm2.bin|78b4fc1299de19f3aef44983ad531725cb623ace
-vendor/lib/camera/com.qti.tuned.ofilm_gc02m1.bin|5fa9eb85866a45e934540a349aeebb67d8cc1867
-vendor/lib/camera/com.qti.tuned.ofilm_gc02m1_filter.bin|5fa9eb85866a45e934540a349aeebb67d8cc1867
-vendor/lib/camera/com.qti.tuned.ofilm_s5kgm2.bin|851c33381b6b78c7865815829f00616aef465e99
-vendor/lib/camera/com.qti.tuned.sunny_imx582.bin|44e0720be8f70f57a65836eabeabc65e65c55af5
+vendor/lib/camera/com.qti.tuned.ofilm_gc02m1.bin|99d75cc132a95e2416814e4b4ae6d598d57e7941
+vendor/lib/camera/com.qti.tuned.ofilm_gc02m1_filter.bin|99d75cc132a95e2416814e4b4ae6d598d57e7941
+vendor/lib/camera/com.qti.tuned.ofilm_s5kgm2.bin|4cf5517d44aec06e4b3422dd01ad03d14c891470
+vendor/lib/camera/com.qti.tuned.sunny_imx582.bin|764176067c74dafecb587d284ab393069b94d8a2
 vendor/lib64/camera/com.qti.sensormodule.ofilm_gc02m1_filter.bin|9100355fea9a83176cfeb584774f9c91d5567f55
 vendor/lib64/camera/com.qti.sensormodule.ofilm_s5kgm2.bin|f478aaa7dcb48ec04996ef6f64a837c49c4baa7f
 vendor/lib64/camera/com.qti.sensormodule.sunny_imx582.bin|175e004dcc5851cf9804878ab7d70c31467e4585
 vendor/lib64/camera/com.qti.sensormodule.sunny_s5kgm2.bin|78b4fc1299de19f3aef44983ad531725cb623ace
-vendor/lib64/camera/com.qti.tuned.ofilm_gc02m1.bin|5fa9eb85866a45e934540a349aeebb67d8cc1867
-vendor/lib64/camera/com.qti.tuned.ofilm_gc02m1_filter.bin|5fa9eb85866a45e934540a349aeebb67d8cc1867
-vendor/lib64/camera/com.qti.tuned.ofilm_s5kgm2.bin|851c33381b6b78c7865815829f00616aef465e99
-vendor/lib64/camera/com.qti.tuned.sunny_imx582.bin|44e0720be8f70f57a65836eabeabc65e65c55af5
+vendor/lib64/camera/com.qti.tuned.ofilm_gc02m1.bin|99d75cc132a95e2416814e4b4ae6d598d57e7941
+vendor/lib64/camera/com.qti.tuned.ofilm_gc02m1_filter.bin|99d75cc132a95e2416814e4b4ae6d598d57e7941
+vendor/lib64/camera/com.qti.tuned.ofilm_s5kgm2.bin|4cf5517d44aec06e4b3422dd01ad03d14c891470
+vendor/lib64/camera/com.qti.tuned.sunny_imx582.bin|764176067c74dafecb587d284ab393069b94d8a2
 
 # Camera sensors - excalibur & joyeuse
 vendor/lib/camera/com.qti.sensormodule.ofilm_s5kgw1.bin|334d371b7a983ce68b00517adda673c3c0e929b2
